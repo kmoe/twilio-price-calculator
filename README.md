@@ -1,6 +1,7 @@
 # twilio-price-calculator
-*Calculate the price of a voice minute or SMS message between any two numbers using the Twilio API.*
+*Calculate the price of a phone number, or a voice minute or SMS message between any two numbers..*
 
+All prices are in USD ($).
 
 ## Quick start
 
@@ -24,3 +25,10 @@ priceCalculator.calculateVoicePrice(FROM_PHONE_NUMBER, TO_PHONE_NUMBER)
 
 ```
 
+## API
+
+### calculateVoicePrice(fromPhoneNumber, toPhoneNumber)
+
+### calculateSMSPrice(fromPhoneNumber, toPhoneNumber)
+
+### calculatePhoneNumberPrice(desiredPhoneNumber)
