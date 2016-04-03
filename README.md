@@ -1,6 +1,8 @@
 # twilio-price-calculator
 *Calculate the price of a phone number, or a voice minute or SMS message between any two numbers.*
 
+[Try it out in your browser here!](https://tonicdev.com/npm/twilio-price-calculator)
+
 All prices are in USD ($).
 
 ## Quick start
