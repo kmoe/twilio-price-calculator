@@ -31,6 +31,6 @@ priceCalculator.calculateVoicePrice(FROM_PHONE_NUMBER, TO_PHONE_NUMBER)
 
 ### calculateVoicePrice(fromPhoneNumber, toPhoneNumber)
 
-### calculateSMSPrice(fromPhoneNumber, toPhoneNumber)
+### calculateSmsPrice(fromPhoneNumber, toPhoneNumber)
 
 ### calculatePhoneNumberPrice(desiredPhoneNumber)
