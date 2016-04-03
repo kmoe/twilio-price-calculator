@@ -10,7 +10,7 @@ npm install twilio-price-calculator --save
 
 This module provides a promise-based API. You'll first need to initialise the price calculator client by passing in your Twilio API credentials.
 
-```
+```javascript
 var PriceCalculator = require('twilio-price-calculator');
 var priceCalculator = new PriceCalculator(YOUR_ACCOUNT_SID, YOUR_AUTH_TOKEN);
 
