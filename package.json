@@ -1,0 +1,28 @@
+{
+  "name": "twilio-price-calculator",
+  "version": "1.0.0",
+  "description": "calculate the price of a voice minute or SMS message between any two numbers using the Twilio API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kmoe/twilio-price-calculator.git"
+  },
+  "keywords": [
+    "twilio",
+    "price",
+    "calculator"
+  ],
+  "author": "Katy Moe <katy@katy.moe> (http://katy.moe)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kmoe/twilio-price-calculator/issues"
+  },
+  "homepage": "https://github.com/kmoe/twilio-price-calculator#readme",
+  "dependencies": {
+    "q": "^1.4.1",
+    "twilio": "^2.9.1"
+  }
+}
